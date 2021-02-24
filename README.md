@@ -8,6 +8,7 @@ $$("h2, h3", $0)
 
 # Changelog
 
+2021/02/24 - 2. & 3. Review: [Reed Remastered, Reed 2](#reed-remastered-reed-2)
 2021/02/23 - Erstes Review: [XBlaze Code: Embryo](#xblaze-code-embryo)
 
 ---
@@ -66,8 +67,7 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 | [Ragnarok Odyssey ACE](#ragnarok-odyssey-ace) | Not reviewed | :question: |
 | [Ray Gigant](#ray-gigant) | Not reviewed | :question: |
 | [Red Game](#red-game) | Not reviewed | :question: |
-| [Reed Remastered](#reed-remastered) | Not reviewed | :question: |
-| [Reed 2](#reed-2) | Not reviewed | :question: |
+| [Reed Remastered](#reed-remastered-reed-2) & [Reed 2](#reed-remastered-reed-2) | 2021/02/24 | :x:, :x: |
 | [Reverie](#reverie) | Not reviewed | :question: |
 | [Riddled Corpses EX](#riddled-corpses-ex) | Not reviewed | :question: |
 | [Risk of Rain](#risk-of-rain) | Not reviewed | :question: |
@@ -116,8 +116,8 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 | [Waking Violet](#waking-violet) | Not reviewed | :question: |
 | [Warriors Orochi 3 Ultimate](#warriors-orochi-3-ultimate) | Not reviewed | :question: |
 | [Whispering Willows](#whispering-willows) | Not reviewed | :question: |
-| [XBlaze Code: Embryo](#xblaze-code-embryo) | Not reviewed | :wavy_dash: |
-| [XBlaze Lost:Memories](#xblaze-lostmemories) | Not reviewed | :question: |
+| [XBlaze Code: Embryo](#xblaze-code-embryo) | 2021/02/23 | :wavy_dash: |
+| [XBlaze Lost: Memories](#xblaze-lost-memories) | Not reviewed | :question: |
 | [Ys Origin](#ys-origin) | Not reviewed | :question: |
 | [Ys: Memories of Celceta](#ys-memories-of-celceta) | Not reviewed | :question: |
 | [Ys VIII](#ys-viii) | Not reviewed | :question: |
@@ -172,8 +172,42 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 ## Ragnarok Odyssey ACE
 ## Ray Gigant
 ## Red Game
-## Reed Remastered
-## Reed 2
+## Reed Remastered, Reed 2
+
+Reed Remastered ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 0.99€ im Android Store, für 0.99€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
+
+Reed 2 ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 1.99€ im Android Store, für 3.49€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
+
+Zu Reed als Spiele alleine sei vorangestellt, dass der Publisher [Ratalaika Games](https://ratalaikagames.com/) das Publishen für einige Indie-Entwickler übernimmt, damit aber auch den Ruf erlangt hat, schlechte Shovelware zu produzieren mit absichtlich einfachen Trophies, die dann wiederum Spieler innerst kurzer Zeit mehrfach vervollständigen, um sich Trophy-Punkte zu erhaschen.
+Erfahrung hatte ich selbst mit dem Publisher noch keine, aber Reed Remastered und Reed 2 machen keinen guten Ersteindruck.
+
+In Reed Remastered ([Gameplay](https://youtu.be/iuN4u8GRuX4?t=6)) wird man nach dem Titelbildschirm und einer Intro-Sequenz direkt in die Welt geworfen.
+Es begrüsst ein Computer, der um Hilfe bittet, die "Würfel" zu kalibrieren, bevor seine Sprache komplett verbuggt wird.
+
+Bereits in diesem ersten Raum fiel mir die Ähnlichkeit zu [Fez](https://de.wikipedia.org/wiki/Fez_(Computerspiel)) auf.
+Der Grafikstil ist definitiv härter, die Farben intensiver und stärker abgegrenzt als bei Fez, aber eine Ähnlichkeit spürte ich trotzdem bereits hier.
+Mit dem Einführen der Würfel im nächsten Raum, bei der eine dunkle Linie jeweils einen Viertel jedes Gesichts abgrenzte, verstärkte das Gefühl nur noch mehr.
+Viel stärker ist es aber bei der Musik. Diese melancholischen, wellenartigen Töne, verbunden mit den elektronischen Sounds gerade zu Ende des Tracks sind es, die das Gefühl wecken.
+
+Ein Gefühl, dass ich eigentlich lieber Fez spielen würde, als Reed Remastered.
+
+Inhaltlich bietet Reed Remastered für seine 5€ auch nicht besonders viel: Mit den Trophäen schlisse ich darauf, dass es 44 Level in dem Spiel gibt, plus 4 versteckte Gebiete.
+Nach den angespielten 15 Level fühlte es sich immer noch an, als wäre es eine Tutorial-Phase, um Spielmechaniken zu lernen, die niemals wirklich herausgefordert werden, geschweige denn wirklich in irgendeiner Tiefe existieren.
+
+Reed 2 ([Gameplay](https://youtu.be/l4V1IsimuFk)) beginnt inetwa gleich: Der Computer spricht davon, dass man etwas zum Developer bringen soll (scheinbar hat man im ersten Spiel die Welt nicht gerettet), bevor man wieder neu in dem Raum aufwacht, der Computer nun in Flammen stehend.
+
+Visuell hat sich... nichts geändert.
+Jedenfalls nichts, was man bemerken würde, vielleicht etwas an der Beleuchtung, aber handfest kann ich es nicht beschreiben.
+Der Soundtrack ist zwar ein anderer, aber er vermittelt so ziemlich dieselben Fez-Vibes wie beim Vorgänger.
+
+Spielerisch schafft Reed 2, das aufgespannte Feld an Möglichkeiten der Mechaniken des Vorgängers vollständig auszufüllen, aber genau dabei bleib es auch.
+Es wird nichts gewagt, es gibt keine Erweiterung, die Level sind länger aber damit hat es sich auch schon.
+
+Innovativ ist bei beiden Spielen nichts.
+Sie machen aus ihrer Prämisse wenig, sie trauen sich nichts, nur einen kohärenten Stil können sie gut halten.
+
+Meiner Meinung nach: Finger weg.
+
 ## Reverie
 ## Riddled Corpses EX
 ## Risk of Rain
