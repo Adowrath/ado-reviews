@@ -8,6 +8,7 @@ $$("h2, h3", $0)
 
 # Changelog
 
+2021/02/25 - 4. Review: [Hitman GO Definitive Edition](#hitman-go-definitive-edition)
 2021/02/24 - 2. & 3. Review: [Reed Remastered, Reed 2](#reed-remastered-reed-2)
 2021/02/23 - Erstes Review: [XBlaze Code: Embryo](#xblaze-code-embryo)
 
@@ -40,7 +41,7 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 | [God Wars](#god-wars) | Not reviewed | :question: |
 | [Green Game](#green-game) | Not reviewed | :question: |
 | [Heroes of Loot](#heroes-of-loot) | Not reviewed | :question: |
-| [Hitman GO Definitive Edition](#hitman-go-definitive-edition) | Not reviewed | :question: |
+| [Hitman GO Definitive Edition](#hitman-go-definitive-edition) | 2021/02/25 | :o: |
 | [The Jak and Daxter Trilogy](#the-jak-and-daxter-trilogy) | Not reviewed | :question: |
 | [Jak and Daxter I](#jak-and-daxter-i) | Not reviewed | :question: |
 | [Jak and Daxter II](#jak-and-daxter-ii) | Not reviewed | :question: |
@@ -146,6 +147,30 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 ## Green Game
 ## Heroes of Loot
 ## Hitman GO Definitive Edition
+
+Hitman Go ist für 7.99€ für die PS4 oder PS Vita, für 5.99$ im Play Store, für 5.49€ im iTunes Store und für 8.- auf Steam erhältlich.
+
+![Hitman Go Level](https://upload.wikimedia.org/wikipedia/en/c/c8/Hitman_go_screenshot.jpg)
+
+Bei Hitman Go handelt es sich um eine heruntergebrochene Variante der Thematik der Hitman-Reihe: Möglichst unentdeckt ein Level durchqueren und die vorgegebenen Ziele ausschalten.
+Die Level sind dabei relativ klein und self-contained, man bewegt die Spielfigur entlang vorgegebenen Gittern bis zum Ziel und weicht dabei Gegnern aus.
+Die Einführung des Spiels beginnt wortlos und zeigt in sukzessiven Leveln die Mechaniken, die möglich sind.
+Während im ersten Level nur das Ziel eingeführt wird, zudem man hinlaufen kann, zeigt das zweite Level, dass man Gegner ausschaltet, wenn man sich auf ihr Feld bewegt.
+Im dritten Level lernt man, dass man sich nicht vor einen Gegner stellen sollte, oder man wird selber geschlagen und verliert das Level.
+
+Dieser charmante "Teach by showing"-Aspekt, der komplett wortlos daherkommt, geht stark einher mit dem allgemeinen Design des Spiels.
+Die Designsprache ganz allgemein ist minimalistisch gehalten, die Figuren wirken, als könnten sie genau so aus Plastik oder Holz in einer Brettspielpackung daherkommen.
+
+Das ganze Spiel ist über 7 Gebiete hinweg verteilt, in welchen jeweils mehrere Level stattfinden.
+Während das erste Gebiet stationäre und bewegende Gegner, verschiedene Zusatzziele (z.B. Maximal x Schritte, oder Töte keinen Gegner) sowie werfbare Ablenkungen, die Gegner in Reichweite dorthin lockt einführt, beginnt die erste Mission des zweiten Gebietes bereits mit einer neuen Mechanik: Geheime Durchgänge, die auf eine Art wie Teleporte oder die Schächte in Among Us funktionieren.
+
+Der Ansatz, in den ersten Leveln eines Gebiets jeweils neue Konzepte einzuführen, die gegen Ende des Gebiets zu ihrer Vollendung gebracht werden, gefällt mir sehr gut.
+Es zeigt, dass sehr genau über die Level nachgedacht wurde, um eine angemessene Lernkurve zu gewährleisten.
+Und trotzdem schaffte bereits das erste Gebiet, die Zusatzmissionen zum Teil ziemlich anspruchsvoll zu machen.
+
+Als Puzzle-Spiel kann ich Hitman Go wärmstens empfehlen, auch wenn man mit der Hitman-Reihe selber nicht unbedingt viel anfangen kann.
+Die gewonnenen Awards sind meiner Meinung nach gut verdient. :3
+
 ## The Jak and Daxter Trilogy
 ### Jak and Daxter I
 ### Jak and Daxter II
@@ -174,9 +199,9 @@ Icons: :question: Not reviewed. :wavy_dash: Undecided. :x: No recommendation. :o
 ## Red Game
 ## Reed Remastered, Reed 2
 
-Reed Remastered ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 0.99€ im Android Store, für 0.99€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
+Reed Remastered ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 0.99€ im Play Store, für 0.99€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
 
-Reed 2 ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 1.99€ im Android Store, für 3.49€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
+Reed 2 ist für 4.99€ als Cross-Buy für die PS Vita und PS4, für 4.99€ im Microsoft Store, für 1.99€ im Play Store, für 3.49€ im iTunes Store, und für *Pricing Unavailable* im Switch eShop erhältlich.
 
 Zu Reed als Spiele alleine sei vorangestellt, dass der Publisher [Ratalaika Games](https://ratalaikagames.com/) das Publishen für einige Indie-Entwickler übernimmt, damit aber auch den Ruf erlangt hat, schlechte Shovelware zu produzieren mit absichtlich einfachen Trophies, die dann wiederum Spieler innerst kurzer Zeit mehrfach vervollständigen, um sich Trophy-Punkte zu erhaschen.
 Erfahrung hatte ich selbst mit dem Publisher noch keine, aber Reed Remastered und Reed 2 machen keinen guten Ersteindruck.
